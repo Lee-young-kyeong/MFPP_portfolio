@@ -2347,6 +2347,9 @@ span.error {
     width: 107%;
     height: 272.58px;
   }
+    #portfolio-section .gutter-isotope-item .graphic .portfolio-text{
+    padding-bottom: 32px;
+  }
 }
 @media(max-width:991px){
   .portfolio-wrapper{
